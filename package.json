@@ -1,0 +1,17 @@
+{
+  "name": "estacionamento-empresa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "latest",
+    "html5-qrcode": "latest",
+    "next": "14.1.0",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
